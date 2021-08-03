@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: #0d0d23;
+    font: 30px arial black;
+} 
+h2{
+    text-align: center;
+    color: orangered;
+    font-style: italic  black; 
+}
+
+p {
+    text-align:center;
+    color: #151414;
+    font-weight: 600;
+}
+li {
+    text-align: center;
+    color: rgb(7, 6, 6);
+    font-weight:500;
+}
+.estaimagem{
+    
+    display: grid;
+    width: 25%;
+    position: absolute;
+    right: 570px;
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
+    perspective: 5.cm;
+    
+
+    
+}
